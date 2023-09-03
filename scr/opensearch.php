@@ -4,9 +4,10 @@ return [
     'client' => [
         'hosts' => [env('OPEN_SEARCH_HOST') . ':443'],
         'BasicAuthentication' => [
-            env('OPEN_SEARCH_USERNAME'),
-            env('OPEN_SEARCH_PASSWORD'),
+            'username' => env('OPEN_SEARCH_USERNAME'),
+            'password' => env('OPEN_SEARCH_PASSWORD'),
         ],
+        'SSLVerification' => true,
     ],
 //    'indices' => [
 //        'default' => [
