@@ -33,7 +33,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Pmedynskyi\\OpenSearch\\Providers\\OpenSearchServiceProvider"
+        "Pmedynskyi\\ScoutOpenSearchEngine\\Providers\\OpenSearchServiceProvider"
       ]
     }
   }
