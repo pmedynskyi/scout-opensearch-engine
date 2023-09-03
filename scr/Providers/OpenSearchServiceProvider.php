@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Pmedynskyi\ScoutOpenSearchEngine\Providers\OpenSearchServiceProvider;
+namespace Pmedynskyi\ScoutOpenSearchEngine\Providers;
 
 use Pmedynskyi\ScoutOpenSearchEngine\Engines\OpenSearchEngine;
 use Illuminate\Contracts\Container\BindingResolutionException;
