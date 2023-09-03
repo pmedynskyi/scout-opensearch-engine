@@ -4,9 +4,7 @@
   "keywords": [
     "laravel",
     "scout",
-    "search",
     "opensearch",
-    "aws"
   ],
   "require": {
     "php": "^8.0",
