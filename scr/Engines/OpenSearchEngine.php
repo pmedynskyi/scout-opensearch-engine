@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Pmedynskyi\ScoutOpenSearchEngine\Engines;
+namespace Pmedynskyi\ScoutOpensearchEngine\Engines;
 
 use Pmedynskyi\ScoutOpenSearchEngine\Paginator\ScrollPaginator;
 use Pmedynskyi\ScoutOpenSearchEngine\SearchFactory;

@@ -27,13 +27,13 @@
   ],
   "autoload": {
     "psr-4": {
-      "Pmedynskyi\\ScoutOpenSearchEngine\\": "src/"
+      "Pmedynskyi\\ScoutOpensearchEngine\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "Pmedynskyi\\ScoutOpenSearchEngine\\Providers\\OpenSearchServiceProvider"
+        "Pmedynskyi\\ScoutOpensearchEngine\\Providers\\OpenSearchServiceProvider"
       ]
     }
   }

@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Pmedynskyi\ScoutOpenSearchEngine;
+namespace Pmedynskyi\ScoutOpensearchEngine;
 
 use Illuminate\Pagination\Cursor;
 use Laravel\Scout\Builder;

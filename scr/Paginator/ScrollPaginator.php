@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Pmedynskyi\ScoutOpenSearchEngine\Paginator;
+namespace Pmedynskyi\ScoutOpensearchEngine\Paginator;
 
 use Illuminate\Pagination\Cursor;
 use Illuminate\Pagination\CursorPaginator;
