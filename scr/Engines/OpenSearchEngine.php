@@ -1,10 +1,10 @@
 <?php
 declare(strict_types=1);
 
-namespace Pmedynskyi\OpenSearch\Engines;
+namespace Pmedynskyi\ScoutOpenSearchEngine\Engines;
 
-use Pmedynskyi\OpenSearch\Paginator\ScrollPaginator;
-use Pmedynskyi\OpenSearch\SearchFactory;
+use Pmedynskyi\ScoutOpenSearchEngine\Paginator\ScrollPaginator;
+use Pmedynskyi\ScoutOpenSearchEngine\SearchFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Pagination\Cursor;
 use Illuminate\Pagination\CursorPaginator;

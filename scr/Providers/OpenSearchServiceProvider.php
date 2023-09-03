@@ -1,9 +1,9 @@
 <?php
 declare(strict_types=1);
 
-namespace Pmedynskyi\OpenSearch\Providers;
+namespace Pmedynskyi\ScoutOpenSearchEngine\Providers\OpenSearchServiceProvider;
 
-use Pmedynskyi\OpenSearch\Engines\OpenSearchEngine;
+use Pmedynskyi\ScoutOpenSearchEngine\Engines\OpenSearchEngine;
 use Illuminate\Contracts\Container\BindingResolutionException;
 use Illuminate\Pagination\CursorPaginator;
 use Illuminate\Support\ServiceProvider;
