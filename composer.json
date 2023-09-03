@@ -29,12 +29,5 @@
     "psr-4": {
       "Pmedynskyi\\\\ScoutOpenSearchEngine\\\\": "src/"
     }
-  },
-  "extra": {
-    "laravel": {
-      "providers": [
-        "Pmedynskyi\\ScoutOpenSearchEngine\\Providers\\OpenSearchServiceProvider"
-      ]
-    }
   }
 }
