@@ -27,7 +27,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Pmedynskyi\\\\ScoutOpenSearchEngine\\\\": "src/"
+      "Pmedynskyi\\ScoutOpenSearchEngine\\": "src/"
     }
   },
   "extra": {
